@@ -1,0 +1,40 @@
+.float-left{
+    float:left;
+}
+.float-right{
+    float:right;
+}
+.text-center{
+    text-align:center;
+}
+.text-right{
+    text-align:right;
+}
+.text-left{
+    text-align:left;
+}
+.text-uppercase{
+    text-transform: uppercase;
+}
+.text-lowercase{
+    text-transform: lowercase;
+}
+.justify-space-between{
+    justify-content: space-between;
+}
+form#search{
+    position: relative;
+    color:#565758;
+}
+form#search button{
+    background:#131619;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    padding: 10px 10px;
+    border: none;
+    color:#565758;
+}
+.d-flex{
+    display:flex;
+}
